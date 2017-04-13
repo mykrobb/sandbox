@@ -4,5 +4,6 @@ public class Junk {
 		//second comment from remote
 		System.out.println("Hello world");
 		//comment from local
+		//second comment from local
 	}
 }
